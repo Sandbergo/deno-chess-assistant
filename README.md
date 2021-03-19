@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-:hospital: Play sudden death blind chess in the terminal 
+:chess_pawn: Play sudden death blind chess in the terminal 
 </p>
 <br> 
 
