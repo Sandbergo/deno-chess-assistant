@@ -1,0 +1,2 @@
+# deno-chess-assistant
+Chess
